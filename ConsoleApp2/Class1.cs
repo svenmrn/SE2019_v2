@@ -9,9 +9,9 @@ namespace ConsoleApp2
         int CalcNumberOfDaysTillEndOfSchoolYear()
         {
             //TODO: calculate ..
-            var a = 10;
-            var b = 20;
-            return a  * b +2;
+            var a = 110;
+            var b = 120;
+            return a  * b + 9;
         }
     }
 }
