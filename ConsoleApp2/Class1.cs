@@ -6,5 +6,10 @@ namespace ConsoleApp2
 {
     class Class1
     {
+        int CalcNumberOfDaysTillEndOfSchoolYear()
+        {
+            //TODO: calculate ..
+            return 234;
+        }
     }
 }
