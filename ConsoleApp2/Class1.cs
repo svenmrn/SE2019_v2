@@ -18,5 +18,14 @@ namespace ConsoleApp2
             var a = 110;      
             return a  * b + 5 ;
         }
+
+        int CalcNumberOfDaysTillBirtday(DateTime birth)
+        {
+            //TODO: calculate ..
+            var b = 200;
+            var a = 110;
+            var c = 2222;
+            return a * b + 10 /c;
+        }
     }
 }
