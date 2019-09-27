@@ -13,6 +13,11 @@ namespace ConsoleApp2
          int Add2Numbers(int a, int b){
             return a+b;
          }
+
+        test()
+        {
+
+        }
     }
     
    
