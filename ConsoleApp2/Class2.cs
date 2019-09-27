@@ -10,5 +10,10 @@ namespace ConsoleApp2
         {
 
         }
+         void Add2Numbers(int a, int b){
+        return a+b;
+         }
     }
+    
+   
 }
