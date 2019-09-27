@@ -6,5 +6,9 @@ namespace ConsoleApp2
 {
     class Class2
     {
+        public Class2()
+        {
+
+        }
     }
 }

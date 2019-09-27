@@ -25,7 +25,8 @@ namespace ConsoleApp2
             var b = 200;
             var a = 110;
             var c = 2222;
-            return a * b + 10 /c;
+            var d = 1;
+            return a * b + 10 /c + d;
         }
     }
 }
