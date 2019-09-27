@@ -10,10 +10,5 @@ namespace ConsoleApp2
         {
 
         }
-
-        void Test()
-        {
-
-        }
     }
 }
