@@ -19,7 +19,8 @@ namespace ConsoleApp2
             //TODO: calculate ..
             var b = 200;
             var a = 110;
-            return a * b + 10;
+            var c = 2222;
+            return a * b + 10 /c;
         }
     }
 }
